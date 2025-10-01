@@ -34,7 +34,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EasyIslam</title>
+    <title>EI</title>
 </head>
 
 <style>
@@ -75,7 +75,7 @@ border: 1px solid black;
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EasyIslam</title>
+    <title>EI</title>
 </head>
 
 <style>
