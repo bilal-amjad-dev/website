@@ -29,3 +29,14 @@ Instead:
 - `pe-3` = Padding End (right)
 - `p-3` = Padding all sides
 
+
+Quick Cheat Sheet:
+|||
+|---|---|
+|Class|Meaning|
+|`mt-3`|Space above|
+|`mb-3`|Space below|
+|`p-3`|Space inside (padding)|
+|`m-3`|Space outside all sides|
+
+
