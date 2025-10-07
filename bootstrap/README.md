@@ -35,6 +35,7 @@ Instead:
 Both Sides:
 
 `mx` = Margin left AND right (X-axis)
+
 `my` = Margin top AND bottom (Y-axis)
 
 All Sides:
