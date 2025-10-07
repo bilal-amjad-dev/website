@@ -30,6 +30,19 @@ Instead:
 - `p-3` = Padding all sides
 
 
+
+
+Both Sides:
+
+`mx` = Margin left AND right (X-axis)
+`my` = Margin top AND bottom (Y-axis)
+
+All Sides:
+
+`m` = Margin on all 4 sides
+
+
+
 Quick Cheat Sheet:
 |||
 |---|---|
